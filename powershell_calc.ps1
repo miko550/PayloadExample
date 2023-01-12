@@ -1,1 +1,1 @@
-Start-Process ms-calculator
+Start-Process calc.exe
